@@ -1,1 +1,1 @@
-# Harry-Potter-Networking-Project
+# Harry-Potter-Network-Project
